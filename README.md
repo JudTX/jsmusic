@@ -1,6 +1,6 @@
 # jsmusic
 
-使用http://api.jirengu.com/fm/getChannels.php接口获取音乐
+使用[http://api.jirengu.com/fm/getChannels.php]接口获取音乐
 
 使用HTML、CSS、JavaScript构建的音乐播放器
 
